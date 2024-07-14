@@ -23523,7 +23523,7 @@
 		(uuid "ecb0b985-302a-48be-a995-4ed27d2f5bb7")
 	)
 	(gr_text "Power Outputs"
-		(at 174 94.5 0)
+		(at 173.5 95.5 0)
 		(layer "F.Cu")
 		(uuid "2261d669-f80f-4ebd-a4c4-2f2625c2948b")
 		(effects
