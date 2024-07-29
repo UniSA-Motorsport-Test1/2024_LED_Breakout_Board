@@ -1,1 +1,1842 @@
+447767550813981
+ICs
+SOT95P280X145-6N
+6L-SOT23
+Integrated Circuit
 0
+6
+6
+NETLAB_Connectors
+2828412
+282841-2-2
+Connector
+0
+2
+2
+NETLAB_Connectors
+51462783
+5-146278-3-4
+Connector
+0
+3
+3
+NETLAB_Connectors
+Banana_plug_black
+24.243.2-5
+Connector
+0
+2
+2
+NETLAB_Connectors
+Banana_plug_red
+24.243.1-1
+Connector
+0
+2
+2
+NETLAB_Diodes
+0805
+2019-10-04
+LED
+0
+2
+2
+NETLAB_Diodes
+D_5W_P12.70mm_Horizontal
+Diode, 5W series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5W series Axial Horizontal pin pitch 12.7mm  length 8.9mm diameter 3.7mm
+0
+2
+2
+NETLAB_Diodes
+SMB-2
+
+
+0
+2
+2
+NETLAB_Microcontrollers
+STM32F091CCT6
+48-LQFP (7x7)-
+Integrated Circuit
+0
+48
+48
+NETLAB_Relays
+1-1721142-9
+
+
+0
+4
+4
+NETLAB_Relays
+EE212NUHL
+EE2_NUH
+Relay or Contactor
+0
+8
+8
+NETLAB_SOD
+SOD-123-2
+1N5819HW-7-F
+Diode
+0
+2
+2
+NETLAB_SOD
+SOD-323-2
+SOD323
+Diode
+0
+2
+2
+NETLAB_SOIC
+SOIC-8
+SOIC-8
+Integrated Circuit
+0
+8
+8
+NETLAB_SOIC
+SOIC-8-Narrow
+93LC46-I/SN
+Integrated Circuit
+0
+8
+8
+NETLAB_SOIC
+SOIC-14
+
+
+0
+14
+14
+NETLAB_SOIC
+SOIC-16
+
+
+0
+16
+16
+NETLAB_SOIC
+SOIC-20
+20-Lead Standard Small Outline Package [SOIC_W] Wide Body (RW-20)
+Integrated Circuit
+0
+20
+20
+NETLAB_SOIC
+miniSO-8
+MiniSO 8
+Integrated Circuit
+0
+8
+8
+NETLAB_SOP
+SOP
+SOP8 (1)
+Integrated Circuit
+0
+8
+8
+NETLAB_SOT
+SOT-23
+sot-23-236
+Diode
+0
+3
+3
+NETLAB_SOT
+SOT-23-3
+SOT-23 (TO-236)
+
+0
+3
+3
+NETLAB_SOT
+SOT-23-5
+SOT-23-5
+Integrated Circuit
+0
+5
+5
+NETLAB_SOT
+SOT-25T-5
+TSMD5(H=1mm)
+Diode
+0
+5
+5
+NETLAB_SOT
+SOT-223
+SOT-223
+Integrated Circuit
+0
+4
+4
+NETLAB_SOT
+SOT-223-4
+SOT-223-4
+Integrated Circuit
+0
+4
+3
+NETLAB_SOT
+SOT-233
+SOT-223 (TO-261AA)
+MOSFET (N-Channel)
+0
+4
+4
+NETLAB_SOT
+SOT-353
+SOT-353
+Undefined or Miscellaneous
+0
+5
+5
+NETLAB_SOT
+SOT-353-5
+Package Type: SOT353
+Undefined or Miscellaneous
+0
+5
+5
+NETLAB_SOT
+SOT-363
+SOT-363
+
+0
+6
+6
+NETLAB_SOT
+SOT-523
+SOT-523
+Transistor BJT NPN
+0
+3
+3
+NETLAB_SOT
+SOT-669
+
+
+0
+5
+5
+NETLAB_SurfaceMountOther
+7914J1000E
+7914J
+Switch
+0
+4
+4
+NETLAB_SurfaceMountOther
+MSOP-8
+MSOP-8
+Integrated Circuit
+0
+8
+8
+NETLAB_SurfaceMountOther
+TLP2761
+TLP2761(E
+Integrated Circuit
+0
+6
+6
+NETLAB_TO
+TO-220
+TO-220AB PACKAGE-ren1
+MOSFET (P-Channel)
+0
+3
+3
+NETLAB_TO
+TO-263-5
+MIC29302WU-2
+Integrated Circuit
+0
+6
+6
+NETLAB_Testpoints
+TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
+Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm
+CONN DEV
+0
+2
+2
+NETLAB_Testpoints
+TestPoint_2Pads_Pitch5.08mm_Drill1.3mm
+Test point with 2 pads, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+CONN DEV
+0
+2
+2
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch2.0mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch2.54mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch2.54mm_Drill1.0mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.0mm, wire diameter 0.8mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch2.54mm_Drill1.3mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch3.81mm_Drill1.3mm
+wire loop as test point, pitch 3.81mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch5.08mm_Drill0.7mm
+wire loop as test point, pitch 5.08mm, hole diameter 0.7mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch5.08mm_Drill1.3mm
+wire loop as test point, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch6.35mm_Drill1.3mm
+wire loop as test point, pitch 6.35mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Bridge_Pitch7.62mm_Drill1.3mm
+wire loop as test point, pitch 7.62mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+NETLAB_Testpoints
+TestPoint_Keystone_5000-5004_Miniature
+Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309
+Through Hole Mount Test Points
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Keystone_5005-5009_Compact
+Keystone Miniature THM Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314
+Through Hole Mount Test Points
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Keystone_5010-5014_Multipurpose
+Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319
+Through Hole Mount Test Points
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Keystone_5015_Micro-Minature
+SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353
+Test Point
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Keystone_5019_Minature
+SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
+Test Point
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded
+wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D2.50mm_Drill1.0mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
+low profile wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D2.50mm_Drill1.85mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.85mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded
+wire loop with bead as test point, loop diameter2.548mm, hole diameter 1.5mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D2.60mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.4mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.6mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter 3.5mm, hole diameter 1.4mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D3.80mm_Drill2.0mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.0mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D3.80mm_Drill2.5mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.5mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Loop_D3.80mm_Drill2.8mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm
+test point wire loop bead
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_1.5x1.5mm
+SMD rectangular pad as test Point, square 1.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_2.0x2.0mm
+SMD rectangular pad as test Point, square 2.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_2.5x2.5mm
+SMD rectangular pad as test Point, square 2.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_3.0x3.0mm
+SMD rectangular pad as test Point, square 3.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_4.0x4.0mm
+SMD rectangular pad as test Point, square 4.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_D1.5mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_D2.0mm
+SMD pad as test Point, diameter 2.0mm
+test point SMD pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_D2.5mm
+SMD pad as test Point, diameter 2.5mm
+test point SMD pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_D3.0mm
+SMD pad as test Point, diameter 3.0mm
+test point SMD pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Pad_D4.0mm
+SMD pad as test Point, diameter 4.0mm
+test point SMD pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Plated_Hole_D2.0mm
+Plated Hole as test Point, diameter 2.0mm
+test point plated hole
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Plated_Hole_D3.0mm
+Plated Hole as test Point, diameter 3.0mm
+test point plated hole
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Plated_Hole_D4.0mm
+Plated Hole as test Point, diameter 4.0mm
+test point plated hole
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_Plated_Hole_D5.0mm
+Plated Hole as test Point, diameter 5.0mm
+test point plated hole
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_1.0x1.0mm_Drill0.5mm
+THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm
+test point THT pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_1.5x1.5mm_Drill0.7mm
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_2.0x2.0mm_Drill1.0mm
+THT rectangular pad as test Point, square 2.0mm_Drill1.0mm  side length, hole diameter 1.0mm
+test point THT pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_2.5x2.5mm_Drill1.2mm
+THT rectangular pad as test Point, square 2.5mm side length, hole diameter 1.2mm
+test point THT pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
+THT rectangular pad as test Point, square 3.0mm side length, hole diameter 1.5mm
+test point THT pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
+THT rectangular pad as test Point, square 4.0mm  side length, hole diameter 2.0mm
+test point THT pad rectangle square
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_D1.0mm_Drill0.5mm
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_D1.5mm_Drill0.7mm
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_D2.0mm_Drill1.0mm
+THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm
+test point THT pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_D2.5mm_Drill1.2mm
+THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm 
+test point THT pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_D3.0mm_Drill1.5mm
+THT pad as test Point, diameter 3.0mm, hole diameter 1.5mm
+test point THT pad
+0
+1
+1
+NETLAB_Testpoints
+TestPoint_THTPad_D4.0mm_Drill2.0mm
+THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm
+test point THT pad
+0
+1
+1
+NETLAB_ThroughHoleOther
+3296W1102LF
+3296W-1-102LF-1
+Variable Resistor
+0
+3
+3
+NETLAB_ThroughHoleOther
+B57891M_M891
+B57891M_M891
+Thermistor
+0
+2
+2
+NETLAB_passive_SMD
+0201
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+resistor
+0
+4
+2
+NETLAB_passive_SMD
+0402
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+NETLAB_passive_SMD
+0603
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+NETLAB_passive_SMD
+0805
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+NETLAB_passive_SMD
+1206
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+NETLAB_passive_SMD
+1210
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+NETLAB_passive_SMD
+2010
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+NETLAB_passive_SMD
+2512
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+NETLAB_passive_SMD
+2727
+WE-TPC_682392
+Inductor
+0
+2
+2
+NETLAB_passive_SMD
+EEE0JA152UAP
+SMD_Lytic_G
+Capacitor Polarised
+0
+2
+2
+NETLAB_passive_SMD
+S8050
+ASPIAIG-S8050-1R0M-T
+Inductor
+0
+2
+2
+UniSA Motorsport Logo
+UniSA Motorsport Logo
+
+
+0
+0
+0
+UniSA_Motorsport_Capacitor
+0201
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor
+0
+4
+2
+UniSA_Motorsport_Capacitor
+0402
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+UniSA_Motorsport_Capacitor
+0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+UniSA_Motorsport_Capacitor
+0805
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+UniSA_Motorsport_Capacitor
+1206
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+UniSA_Motorsport_Capacitor
+1210
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+UniSA_Motorsport_Capacitor
+2010
+Capacitor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+UniSA_Motorsport_Capacitor
+2512
+Capacitor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+UniSA_Motorsport_Capacitor
+CP_Elec_8x10.5
+SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+UniSA_Motorsport_Capacitor
+CP_Elec_10x10.5
+SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+UniSA_Motorsport_Capacitor
+EEEFK0J332AQ
+SMD_Lytic_H13
+Capacitor Polarised
+0
+2
+2
+UniSA_Motorsport_Connector
+2xPinheader
+5-146281-2-3
+Connector
+0
+2
+2
+UniSA_Motorsport_Connector
+AMPSEAL_3_ROW_14_PIN_VERTICAL
+
+
+0
+14
+14
+UniSA_Motorsport_Connector
+AMPSEAL_3_ROW_23_PIN
+
+
+0
+35
+35
+UniSA_Motorsport_Connector
+AMPSEAL_3_ROW_23_PIN_VERTICAL
+
+
+0
+23
+23
+UniSA_Motorsport_Connector
+AMPSEAL_3_ROW_35_PIN
+
+
+0
+35
+35
+UniSA_Motorsport_Connector
+Ampseal_8Pin_776280
+1-776267-1
+Connector
+0
+8
+8
+UniSA_Motorsport_Connector
+Ampseal_14Pin_776267
+1-776267-1
+Connector
+0
+14
+14
+UniSA_Motorsport_Connector
+Ampseal_23Pin_770669
+1-776163-1
+Connector
+0
+23
+23
+UniSA_Motorsport_Connector
+Ampseal_35Pin_776163
+1-776163-1
+Connector
+0
+35
+35
+UniSA_Motorsport_Connector
+Banana_Jack
+Single banana socket, footprint - 6mm drill
+banana socket
+0
+1
+1
+UniSA_Motorsport_Connector
+Cinch_5810148009
+
+
+0
+48
+48
+UniSA_Motorsport_Connector
+JST_EH_S2B
+JST EH series connector, S2B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
+0
+2
+2
+UniSA_Motorsport_Connector
+JST_XH_S2B-XH-A
+JST XH series connector, S2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+2
+2
+UniSA_Motorsport_Connector
+MOLEX 43045-04YY_15,16,17
+43045-04YY_15,16,17
+Connector
+0
+4
+4
+UniSA_Motorsport_Connector
+MOLEX_43045-06YY
+43045-06YY_15,16,17
+Connector
+0
+6
+6
+UniSA_Motorsport_Connector
+MOLEX_43045-08YY_ 8PIN
+43045-08YY_15,16,17
+Connector
+0
+8
+8
+UniSA_Motorsport_Connector
+MOLEX_43045-10YY_10PIN
+43045-10YY_15,16,17
+Connector
+0
+10
+10
+UniSA_Motorsport_Connector
+MOLEX_43045-16YY_16PIN
+43045-16YY_15,16,17
+Connector
+0
+16
+16
+UniSA_Motorsport_Connector
+MOLEX_43045-22YY_22_PIN
+43045-22YY_15,16,17
+Connector
+0
+22
+22
+UniSA_Motorsport_Connector
+Molex_C-Grid_71308-5404
+
+
+0
+4
+4
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_3.0_43650-0221_1x02_P3.00mm_Vertical
+Molex Micro-Fit 3.0 Connector System, 43650-0221 (compatible alternatives: 43650-0222, 43650-0223), 2 Pins per row (https://www.molex.com/pdm_docs/sd/436500221_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-0400_2x02_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0400 (compatible alternatives: 43045-0401, 43045-0402), 2 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+4
+4
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-0412_2x02_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-0412 (compatible alternatives: 43045-0413, 43045-0424), 2 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+4
+4
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-0600_2x03_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0600 (compatible alternatives: 43045-0601, 43045-0602), 3 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+6
+6
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-0612_2x03_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-0612 (compatible alternatives: 43045-0613, 43045-0624), 3 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+6
+6
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-0800_2x04_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-0800 (compatible alternatives: 43045-0801, 43045-0802), 4 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+8
+8
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-0812_2x04_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-0812 (compatible alternatives: 43045-0813, 43045-0824), 4 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+8
+8
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1000_2x05_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1000 (compatible alternatives: 43045-1001, 43045-1002), 5 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+10
+10
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1012_2x05_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-1012 (compatible alternatives: 43045-1013, 43045-1024), 5 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+10
+10
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1200_2x06_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1200 (compatible alternatives: 43045-1201, 43045-1202), 6 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+12
+12
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1212_2x06_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-1212 (compatible alternatives: 43045-1213, 43045-1224), 6 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+12
+12
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1400_2x07_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1400 (compatible alternatives: 43045-1401, 43045-1402), 7 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+14
+14
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1412_2x07_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-1412 (compatible alternatives: 43045-1413, 43045-1424), 7 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+14
+14
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1600_2x08_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1600 (compatible alternatives: 43045-1601, 43045-1602), 8 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+16
+16
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1612_2x08_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-1612 (compatible alternatives: 43045-1613, 43045-1624), 8 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+16
+16
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1800_2x09_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-1800 (compatible alternatives: 43045-1801, 43045-1802), 9 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+18
+18
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-1812_2x09_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-1812 (compatible alternatives: 43045-1813, 43045-1824), 9 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+18
+18
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-2000_2x10_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-2000 (compatible alternatives: 43045-2001, 43045-2002), 10 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+20
+20
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-2012_2x10_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-2012 (compatible alternatives: 43045-2013, 43045-2024), 10 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+20
+20
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-2200_2x11_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-2200 (compatible alternatives: 43045-2201, 43045-2202), 11 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+22
+22
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-2212_2x11_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-2212 (compatible alternatives: 43045-2213, 43045-2224), 11 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+22
+22
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-2400_2x12_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43045-2400 (compatible alternatives: 43045-2401, 43045-2402), 12 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+24
+24
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43045-2412_2x12_Vertical
+Molex Micro-Fit 3.0 Connector System, 43045-2412 (compatible alternatives: 43045-2413, 43045-2424), 12 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+24
+24
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43650-0200_1x02_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0200 (compatible alternatives: 43650-0201, 43650-0202), 2 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+2
+2
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43650-0215_1x02_Vertical
+Molex Micro-Fit 3.0 Connector System, 43650-0215 (compatible alternatives: 43650-0216, 43650-0217), 2 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43650-0300_1x03_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0300 (compatible alternatives: 43650-0301, 43650-0302), 3 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+3
+3
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43650-0315_1x03_Vertical
+Molex Micro-Fit 3.0 Connector System, 43650-0315 (compatible alternatives: 43650-0316, 43650-0317), 3 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+3
+3
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43650-0400_1x04_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0400 (compatible alternatives: 43650-0401, 43650-0402), 4 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+4
+4
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43650-0415_1x04_Vertical
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+4
+4
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43650-0500_1x05_Horizontal
+Molex Micro-Fit 3.0 Connector System, 43650-0500 (compatible alternatives: 43650-0501, 43650-0502), 5 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 top entry
+0
+5
+5
+UniSA_Motorsport_Connector
+Molex_Micro-Fit_43650-0515_1x05_Vertical
+Molex Micro-Fit 3.0 Connector System, 43650-0515 (compatible alternatives: 43650-0516, 43650-0517), 5 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+5
+5
+UniSA_Motorsport_Connector
+NorComp_25Pin_774
+
+
+0
+27
+26
+UniSA_Motorsport_Connector
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+UniSA_Motorsport_Connector
+PinSocket_2x50_P2.54mm_Vertical
+Through hole straight socket strip, 2x40, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x40 2.54mm double row
+0
+100
+100
+UniSA_Motorsport_Connector
+SAMTEC_HLE-108-02-L-DV-BE-K-TR
+
+
+0
+16
+16
+UniSA_Motorsport_Connector
+SAMTEC_HW-08-XX-XX-D-XXX-SM
+
+
+0
+16
+16
+UniSA_Motorsport_Connector
+SAMTEC_SSM-108-X-DV
+
+
+0
+16
+15
+UniSA_Motorsport_Connector
+Samtec_MECF-40-0_-L-DV_2x40_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 40 contacts (polarized)
+conn samtec card-edge high-speed
+0
+78
+39
+UniSA_Motorsport_Diode
+0603
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+UniSA_Motorsport_Diode
+0605
+0603 (1608 Metric)
+LED
+0
+2
+2
+UniSA_Motorsport_Diode
+0805
+Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+UniSA_Motorsport_Diode
+1206
+Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+UniSA_Motorsport_Diode
+CFP-15-3
+PMEG030V030EPDZ-3
+Diode
+0
+3
+3
+UniSA_Motorsport_Diode
+DO-214AC-2
+
+
+0
+2
+2
+UniSA_Motorsport_Diode
+SOD-123F-2
+1N4148W RHG-4
+Diode
+0
+2
+2
+UniSA_Motorsport_Diode
+SOD-123FL-2
+SOD−123FL
+Schottky Diode
+0
+2
+2
+UniSA_Motorsport_Diode
+SOT-323
+SOT-323, SC-70 Handsoldering
+SOT-323 SC-70 Handsoldering
+0
+3
+3
+UniSA_Motorsport_Inductor
+5050
+SRR1260-101M-1
+Inductor
+0
+2
+2
+UniSA_Motorsport_Others
+0697H9160-01
+
+
+0
+2
+2
+UniSA_Motorsport_Others
+3296X_POT
+3296X
+Resistor
+0
+3
+3
+UniSA_Motorsport_Others
+015406.3
+
+
+0
+2
+2
+UniSA_Motorsport_Others
+0440005.WRA
+0440
+Fuse
+0
+2
+2
+UniSA_Motorsport_Others
+760390014
+750313638-1
+Transformer
+0
+6
+6
+UniSA_Motorsport_Others
+APAN3103
+APAN3103-1
+Relay or Contactor
+0
+4
+4
+UniSA_Motorsport_Others
+CVH201205-1R0
+Inductor, Chip; 2.00 mm L X 1.25 mm W X 0.55 mm H body
+
+0
+2
+2
+UniSA_Motorsport_Others
+DIP-24_W15.24mm
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+24
+24
+UniSA_Motorsport_Others
+DMT3020LSDQ
+SO-8
+
+0
+8
+6
+UniSA_Motorsport_Others
+EC11E0B2LB01
+EC11E0B2LB01-1
+Undefined or Miscellaneous
+0
+10
+10
+UniSA_Motorsport_Others
+LFXTAL062976
+SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+UniSA_Motorsport_Others
+LSF01-K5B12S
+
+
+0
+4
+4
+UniSA_Motorsport_Others
+Mini Auto Fuse Holder 3588
+
+
+0
+4
+4
+UniSA_Motorsport_Others
+P783-Q24-S3-S
+P783-Q24-S12-S-2
+Power Supply
+0
+12
+12
+UniSA_Motorsport_Others
+P783-Q24-S12-S
+P783-Q24-S12-S-2
+Power Supply
+0
+12
+12
+UniSA_Motorsport_Others
+Raspberry PI 4
+
+
+0
+0
+0
+UniSA_Motorsport_Others
+Relay_SPST_Omron-G5Q-1A
+Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf
+Relay SPST-NO Omron Serie G5Q
+0
+4
+4
+UniSA_Motorsport_Others
+SRN8040TA-220M
+
+
+0
+2
+2
+UniSA_Motorsport_Others
+SRR1280-221K
+
+
+0
+2
+2
+UniSA_Motorsport_Others
+TLP3556A(LF,TP1
+TLP3556A(TP1,F-1
+Integrated Circuit
+0
+4
+4
+UniSA_Motorsport_Others
+UDFN6_1P4X1
+
+
+0
+6
+6
+UniSA_Motorsport_Others
+VX7803-500
+
+
+0
+3
+3
+UniSA_Motorsport_Others
+VX78012-500
+
+
+0
+3
+3
+UniSA_Motorsport_Others
+Vicor_NBM_Module
+
+
+0
+95
+5
+UniSA_Motorsport_Relay
+914620388
+9-1462038-8-1
+Relay or Contactor
+0
+8
+8
+UniSA_Motorsport_Relay
+APAN3103
+APAN3103-1
+Relay or Contactor
+0
+4
+4
+UniSA_Motorsport_Relay
+DPDT_G5V-2
+Omron
+
+0
+8
+8
+UniSA_Motorsport_Relay
+G2RL-1-E
+
+
+0
+8
+8
+UniSA_Motorsport_Relay
+LI121A85
+LI12-1A85-2
+Relay or Contactor
+0
+4
+4
+UniSA_Motorsport_Relay
+LI241A85
+LI12-1A85-2
+Relay or Contactor
+0
+4
+4
+UniSA_Motorsport_Relay
+SPDT_34.51_Vertical
+Relay SPDT, Finder Type34.51, vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
+Relay SPDT Finder
+0
+5
+5
+UniSA_Motorsport_Relay
+SPST_ALQ312
+
+
+0
+4
+4
+UniSA_Motorsport_Relay
+SPST_G5V-1
+Omron
+
+0
+6
+6
+UniSA_Motorsport_Resistor
+0201
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+resistor
+0
+4
+2
+UniSA_Motorsport_Resistor
+0402
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+UniSA_Motorsport_Resistor
+0603
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+UniSA_Motorsport_Resistor
+0805
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+UniSA_Motorsport_Resistor
+1206
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+UniSA_Motorsport_Resistor
+1210
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+UniSA_Motorsport_Resistor
+2010
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+UniSA_Motorsport_Resistor
+2512
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+UniSA_Motorsport_Resistor
+2727
+WE-TPC_682392
+Inductor
+0
+2
+2
+UniSA_Motorsport_Resistor
+3296W-1
+3296W-1
+Variable Resistor
+0
+3
+3
+UniSA_Motorsport_Resistor
+B20J15KE
+B20J15KE-2
+Resistor
+0
+2
+2
+UniSA_Motorsport_Resistor
+EXB38V472JV
+EXB38V_FFW
+Resistor Network
+0
+8
+8
+UniSA_Motorsport_Resistor
+EXBA10P103J
+EXB-A10P103J-1
+Resistor Network
+0
+10
+10
+UniSA_Motorsport_Resistor
+Potentiometer_Bourns_3296W_Vertical
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+3
+3
+UniSA_Motorsport_SO
+MSOP-8
+MSOP-8
+Integrated Circuit
+0
+8
+8
+UniSA_Motorsport_SO
+MSOP-PowerPad-10
+Small Outline Pkg (SOP with Tab), 0.50 mm pitch; 10 pin, 3.00 mm L X 3.00 mm W X 1.10 mm H body
+
+0
+15
+11
+UniSA_Motorsport_SO
+SC70-5
+DCK
+Integrated Circuit
+0
+5
+5
+UniSA_Motorsport_SO
+SO-6-5
+6-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SO SOIC 1.27
+0
+5
+5
+UniSA_Motorsport_SO
+SO-8
+SO-8
+
+0
+8
+8
+UniSA_Motorsport_SO
+SOD123
+
+
+0
+2
+2
+UniSA_Motorsport_SO
+SOD123F
+
+
+0
+2
+2
+UniSA_Motorsport_SO
+SOIC-8
+SOIC-8
+Integrated Circuit
+0
+8
+8
+UniSA_Motorsport_SO
+SOIC-14
+
+
+0
+14
+14
+UniSA_Motorsport_SO
+SOIC-16
+
+
+0
+16
+16
+UniSA_Motorsport_SO
+SOIC-20
+20-Lead Standard Small Outline Package [SOIC_W] Wide Body (RW-20)
+Integrated Circuit
+0
+20
+20
+UniSA_Motorsport_SO
+SSOP-5
+
+
+0
+5
+5
+UniSA_Motorsport_SO
+TI_SO-PowerPAD-8
+8-Lead Plastic PSOP, Exposed Die Pad (TI DDA0008B, see http://www.ti.com/lit/ds/symlink/lm3404.pdf)
+SSOP 0.50 exposed pad
+0
+12
+9
+UniSA_Motorsport_SO
+TO-263-5
+TO-263 (U)_2021-1
+Integrated Circuit
+0
+6
+6
+UniSA_Motorsport_SO
+TSDSON-8
+PG-TSDSON-8FL
+MOSFET (N-Channel)
+0
+10
+3
+UniSA_Motorsport_SO
+TSSOP-5
+SOT353-1
+Integrated Circuit
+0
+5
+5
+UniSA_Motorsport_SO
+VQFN-HR
+
+
+0
+12
+12
+UniSA_Motorsport_SO
+VSSOP-8
+VSSOP-8
+Integrated Circuit
+0
+8
+8
+UniSA_Motorsport_SOT_TO
+SOT-23-3
+SOT-23 (TO-236)
+
+0
+3
+3
+UniSA_Motorsport_SOT_TO
+SOT-23-5
+SOT-23-5
+Integrated Circuit
+0
+5
+5
+UniSA_Motorsport_SOT_TO
+SOT-223
+SOT-223
+Integrated Circuit
+0
+4
+4
+UniSA_Motorsport_SOT_TO
+SOT-223-4
+SOT-223-4
+Integrated Circuit
+0
+4
+3
+UniSA_Motorsport_SOT_TO
+SOT-353
+SOT-353
+Undefined or Miscellaneous
+0
+5
+5
+UniSA_Motorsport_SOT_TO
+SOT-353-5
+Package Type: SOT353
+Undefined or Miscellaneous
+0
+5
+5
+UniSA_Motorsport_SOT_TO
+SOT-363
+SOT-363
+
+0
+6
+6
+UniSA_Motorsport_SOT_TO
+SOT-523
+SOT-523
+Transistor BJT NPN
+0
+3
+3
+UniSA_Motorsport_SOT_TO
+TO-92_HandSolder
+TO-92 leads molded, narrow, drill 0.75mm, handsoldering variant with enlarged pads (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+UniSA_Motorsport_SOT_TO
+TO-252
+TO-252
+
+0
+3
+3
+footprints
+DPAK228P1005X240-4N
+
+
+0
+2
+2
